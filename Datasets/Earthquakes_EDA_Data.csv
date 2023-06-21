@@ -1,0 +1,396 @@
+utc_date,local_time,hour_category,part_of_the_day,magnitude,magnitude_unit,magnitude_category,depth_(km),depth_category,location,latitude,longitude,url
+2023-06-21,02:14:26,2:00 - 3:00,Early Hours,3.0,Ml,3-3.9,139,intermediate,21 km al NE de Termas del Flaco,-34.797,-70.312,https://www.sismologia.cl/sismicidad/informes/2023/06/201361.html
+2023-06-21,00:58:36,0:00 - 1:00,Early Hours,3.2,Ml,3-3.9,126,intermediate,38 km al SO de Ollagüe,-21.454,-68.525,https://www.sismologia.cl/sismicidad/informes/2023/06/201354.html
+2023-06-21,23:58:52,23:00 - 24:00,Later Hours,3.5,Ml,3-3.9,247,intermediate,67 km al SE de Socaire,-24.111,-67.551,https://www.sismologia.cl/sismicidad/informes/2023/06/201344.html
+2023-06-21,23:40:17,23:00 - 24:00,Later Hours,3.0,Ml,3-3.9,47,shallow,10 km al SE de Constitución,-35.383,-72.321,https://www.sismologia.cl/sismicidad/informes/2023/06/201341.html
+2023-06-21,20:31:38,20:00 - 21:00,Later Hours,2.9,Ml,<3,116,intermediate,39 km al SE de Alto del Carmen,-28.917,-70.13,https://www.sismologia.cl/sismicidad/informes/2023/06/201323.html
+2023-06-20,19:22:20,19:00 - 20:00,Later Hours,3.2,Ml,3-3.9,112,intermediate,46 km al O de Ollagüe,-21.26,-68.699,https://www.sismologia.cl/sismicidad/informes/2023/06/201321.html
+2023-06-20,19:02:08,19:00 - 20:00,Later Hours,3.1,Ml,3-3.9,19,shallow,82 km al O de Tongoy,-30.508,-72.295,https://www.sismologia.cl/sismicidad/informes/2023/06/201318.html
+2023-06-20,16:28:07,16:00 - 17:00,Later Hours,4.3,Ml,4-4.9,104,intermediate,31 km al E de Pica,-20.405,-69.049,https://www.sismologia.cl/sismicidad/informes/2023/06/201308.html
+2023-06-20,14:53:49,14:00 - 15:00,Central Hours,3.2,Ml,3-3.9,10,shallow,124 km al O de Tirúa,-38.339,-74.918,https://www.sismologia.cl/sismicidad/informes/2023/06/201298.html
+2023-06-20,11:07:06,11:00 - 12:00,Central Hours,3.0,Ml,3-3.9,41,shallow,64 km al SO de Alto Hospicio,-20.637,-70.576,https://www.sismologia.cl/sismicidad/informes/2023/06/201272.html
+2023-06-20,09:09:18,9:00 - 10:00,Central Hours,2.8,Ml,<3,95,intermediate,62 km al NE de Quillagua,-21.247,-69.131,https://www.sismologia.cl/sismicidad/informes/2023/06/201262.html
+2023-06-20,08:36:24,8:00 - 9:00,Central Hours,2.7,Ml,<3,32,shallow,8 km al O de Huasco,-28.447,-71.295,https://www.sismologia.cl/sismicidad/informes/2023/06/201261.html
+2023-06-20,05:45:59,5:00 - 6:00,Early Hours,2.8,Ml,<3,52,intermediate,29 km al NO de Pozo Almonte,-20.026,-69.914,https://www.sismologia.cl/sismicidad/informes/2023/06/201251.html
+2023-06-20,05:04:30,5:00 - 6:00,Early Hours,4.3,Ml,4-4.9,205,intermediate,74 km al N de San Pedro de Atacama,-22.267,-68.068,https://www.sismologia.cl/sismicidad/informes/2023/06/201249.html
+2023-06-20,01:47:34,1:00 - 2:00,Early Hours,2.6,Ml,<3,105,intermediate,24 km al O de Mina Collahuasi,-20.783,-68.887,https://www.sismologia.cl/sismicidad/informes/2023/06/201235.html
+2023-06-20,22:30:35,22:00 - 23:00,Later Hours,4.2,Ml,4-4.9,177,intermediate,74 km al O de Socaire,-23.583,-68.613,https://www.sismologia.cl/sismicidad/informes/2023/06/201227.html
+2023-06-20,22:22:34,22:00 - 23:00,Later Hours,2.8,Ml,<3,71,intermediate,24 km al SO de Linares,-36.027,-71.732,https://www.sismologia.cl/sismicidad/informes/2023/06/201224.html
+2023-06-20,21:38:47,21:00 - 22:00,Later Hours,2.9,Ml,<3,110,intermediate,74 km al O de Socaire,-23.52,-68.614,https://www.sismologia.cl/sismicidad/informes/2023/06/201222.html
+2023-06-19,19:55:02,19:00 - 20:00,Later Hours,3.1,Ml,3-3.9,114,intermediate,38 km al S de Mina Collahuasi,-21.166,-68.707,https://www.sismologia.cl/sismicidad/informes/2023/06/201214.html
+2023-06-19,18:29:01,18:00 - 19:00,Later Hours,3.5,Ml,3-3.9,5,shallow,35 km al SE de Cuya,-19.337,-69.906,https://www.sismologia.cl/sismicidad/informes/2023/06/201204.html
+2023-06-19,18:08:12,18:00 - 19:00,Later Hours,3.7,Ml,3-3.9,42,shallow,59 km al O de La Higuera,-29.418,-71.804,https://www.sismologia.cl/sismicidad/informes/2023/06/201201.html
+2023-06-19,16:51:21,16:00 - 17:00,Later Hours,3.6,Ml,3-3.9,31,shallow,98 km al O de Cobquecura,-35.81,-73.807,https://www.sismologia.cl/sismicidad/informes/2023/06/201186.html
+2023-06-19,14:58:08,14:00 - 15:00,Central Hours,3.1,Ml,3-3.9,110,intermediate,27 km al E de Mina La Escondida.,-24.31,-68.798,https://www.sismologia.cl/sismicidad/informes/2023/06/201179.html
+2023-06-19,14:55:44,14:00 - 15:00,Central Hours,3.6,Ml,3-3.9,226,intermediate,72 km al S de Socaire,-24.229,-67.802,https://www.sismologia.cl/sismicidad/informes/2023/06/201178.html
+2023-06-19,11:48:21,11:00 - 12:00,Central Hours,3.8,Ml,3-3.9,122,intermediate,20 km al S de Mina Los Pelambres,-31.997,-70.62,https://www.sismologia.cl/sismicidad/informes/2023/06/201160.html
+2023-06-19,09:20:16,9:00 - 10:00,Central Hours,3.1,Ml,3-3.9,102,intermediate,23 km al E de Calama,-22.503,-68.709,https://www.sismologia.cl/sismicidad/informes/2023/06/201152.html
+2023-06-19,07:46:13,7:00 - 8:00,Early Hours,3.0,Ml,3-3.9,136,intermediate,51 km al S de Ollagüe,-21.666,-68.388,https://www.sismologia.cl/sismicidad/informes/2023/06/201144.html
+2023-06-19,06:24:36,6:00 - 7:00,Early Hours,2.9,Ml,<3,29,shallow,41 km al NO de Mejillones,-22.785,-70.652,https://www.sismologia.cl/sismicidad/informes/2023/06/201140.html
+2023-06-19,05:53:50,5:00 - 6:00,Early Hours,3.3,Ml,3-3.9,125,intermediate,68 km al SO de Ollagüe,-21.774,-68.539,https://www.sismologia.cl/sismicidad/informes/2023/06/201137.html
+2023-06-19,05:32:40,5:00 - 6:00,Early Hours,3.2,Ml,3-3.9,123,intermediate,60 km al NE de Calama,-21.995,-68.663,https://www.sismologia.cl/sismicidad/informes/2023/06/201135.html
+2023-06-19,04:53:27,4:00 - 5:00,Early Hours,3.0,Ml,3-3.9,131,intermediate,46 km al SO de Ollagüe,-21.598,-68.444,https://www.sismologia.cl/sismicidad/informes/2023/06/201131.html
+2023-06-19,03:24:48,3:00 - 4:00,Early Hours,3.0,Ml,3-3.9,113,intermediate,47 km al SO de Mina Collahuasi,-21.099,-68.998,https://www.sismologia.cl/sismicidad/informes/2023/06/201121.html
+2023-06-19,03:18:21,3:00 - 4:00,Early Hours,2.6,Ml,<3,111,intermediate,43 km al NE de Calama,-22.149,-68.703,https://www.sismologia.cl/sismicidad/informes/2023/06/201120.html
+2023-06-19,03:02:52,3:00 - 4:00,Early Hours,2.5,Ml,<3,113,intermediate,52 km al S de Mina Collahuasi,-21.268,-68.811,https://www.sismologia.cl/sismicidad/informes/2023/06/201117.html
+2023-06-19,02:09:13,2:00 - 3:00,Early Hours,2.7,Ml,<3,92,intermediate,52 km al O de San Pedro de Atacama,-22.954,-68.706,https://www.sismologia.cl/sismicidad/informes/2023/06/201112.html
+2023-06-19,00:03:41,0:00 - 1:00,Early Hours,2.7,Ml,<3,24,shallow,46 km al NO de Valparaíso,-32.676,-71.825,https://www.sismologia.cl/sismicidad/informes/2023/06/201105.html
+2023-06-19,23:58:25,23:00 - 24:00,Later Hours,3.4,Ml,3-3.9,27,shallow,38 km al N de Valparaíso,-32.723,-71.726,https://www.sismologia.cl/sismicidad/informes/2023/06/201102.html
+2023-06-19,23:20:24,23:00 - 24:00,Later Hours,2.5,Ml,<3,114,intermediate,46 km al E de Calama,-22.52,-68.486,https://www.sismologia.cl/sismicidad/informes/2023/06/201100.html
+2023-06-19,22:23:09,22:00 - 23:00,Later Hours,4.8,Mw,4-4.9,127,intermediate,20 km al SO de Calama,-22.63,-69.01,https://www.sismologia.cl/sismicidad/informes/2023/06/201095.html
+2023-06-19,20:32:01,20:00 - 21:00,Later Hours,2.9,Ml,<3,119,intermediate,45 km al S de Mina Collahuasi,-21.21,-68.809,https://www.sismologia.cl/sismicidad/informes/2023/06/201089.html
+2023-06-18,16:58:13,16:00 - 17:00,Later Hours,3.7,Ml,3-3.9,287,deep,33 km al SE de San Pedro de Atacama,-23.066,-67.924,https://www.sismologia.cl/sismicidad/informes/2023/06/201079.html
+2023-06-18,14:57:12,14:00 - 15:00,Central Hours,2.7,Ml,<3,69,intermediate,34 km al S de Melipilla,-33.986,-71.187,https://www.sismologia.cl/sismicidad/informes/2023/06/201066.html
+2023-06-18,13:54:21,13:00 - 14:00,Central Hours,3.0,Ml,3-3.9,33,shallow,41 km al SO de Los Vilos,-32.244,-71.688,https://www.sismologia.cl/sismicidad/informes/2023/06/201053.html
+2023-06-18,13:50:26,13:00 - 14:00,Central Hours,3.6,Ml,3-3.9,100,intermediate,17 km al E de Sierra Gorda.,-22.959,-69.167,https://www.sismologia.cl/sismicidad/informes/2023/06/201051.html
+2023-06-18,12:26:36,12:00 - 13:00,Central Hours,4.2,Ml,4-4.9,38,shallow,49 km al NO de Tongoy,-29.982,-71.888,https://www.sismologia.cl/sismicidad/informes/2023/06/201045.html
+2023-06-18,11:33:54,11:00 - 12:00,Central Hours,3.2,Ml,3-3.9,250,deep,68 km al SE de Socaire,-23.846,-67.279,https://www.sismologia.cl/sismicidad/informes/2023/06/201037.html
+2023-06-18,09:19:40,9:00 - 10:00,Central Hours,2.9,Ml,<3,116,intermediate,31 km al O de Mina Collahuasi,-20.858,-68.951,https://www.sismologia.cl/sismicidad/informes/2023/06/201029.html
+2023-06-18,07:47:57,7:00 - 8:00,Early Hours,4.2,Ml,4-4.9,56,intermediate,75 km al SE de Antofagasta,-24.245,-70.082,https://www.sismologia.cl/sismicidad/informes/2023/06/201024.html
+2023-06-18,06:29:51,6:00 - 7:00,Early Hours,3.2,Ml,3-3.9,48,shallow,21 km al S de Huasco,-28.647,-71.179,https://www.sismologia.cl/sismicidad/informes/2023/06/201018.html
+2023-06-18,02:58:30,2:00 - 3:00,Early Hours,3.5,Ml,3-3.9,36,shallow,61 km al S de Ilo,-18.16,-71.131,https://www.sismologia.cl/sismicidad/informes/2023/06/201004.html
+2023-06-18,02:50:00,2:00 - 3:00,Early Hours,3.6,Ml,3-3.9,34,shallow,103 km al O de Tortel,-47.52,-74.845,https://www.sismologia.cl/sismicidad/informes/2023/06/201002.html
+2023-06-18,01:47:15,1:00 - 2:00,Early Hours,3.2,Ml,3-3.9,108,intermediate,49 km al NE de Mina La Escondida.,-23.892,-68.812,https://www.sismologia.cl/sismicidad/informes/2023/06/200997.html
+2023-06-18,01:44:42,1:00 - 2:00,Early Hours,3.6,Ml,3-3.9,233,intermediate,107 km al NE de Socaire,-23.148,-66.963,https://www.sismologia.cl/sismicidad/informes/2023/06/200998.html
+2023-06-18,00:17:20,0:00 - 1:00,Early Hours,3.5,Ml,3-3.9,197,intermediate,120 km al SE de Socaire,-24.473,-67.203,https://www.sismologia.cl/sismicidad/informes/2023/06/200993.html
+2023-06-18,23:58:41,23:00 - 24:00,Later Hours,4.5,Mw,4-4.9,267,deep,125 km al NE de Socaire,-23.114,-66.782,https://www.sismologia.cl/sismicidad/informes/2023/06/200991.html
+2023-06-18,23:09:21,23:00 - 24:00,Later Hours,3.0,Ml,3-3.9,24,shallow,41 km al O de Navidad,-34.024,-72.262,https://www.sismologia.cl/sismicidad/informes/2023/06/200988.html
+2023-06-18,21:20:45,21:00 - 22:00,Later Hours,3.3,Ml,3-3.9,124,intermediate,32 km al O de Ollagüe,-21.229,-68.562,https://www.sismologia.cl/sismicidad/informes/2023/06/200982.html
+2023-06-17,19:41:38,19:00 - 20:00,Later Hours,2.8,Ml,<3,115,intermediate,36 km al O de Mina Collahuasi,-20.89,-69.002,https://www.sismologia.cl/sismicidad/informes/2023/06/200977.html
+2023-06-17,19:12:00,19:00 - 20:00,Later Hours,3.1,Ml,3-3.9,104,intermediate,53 km al SO de Mina Collahuasi,-21.14,-69.046,https://www.sismologia.cl/sismicidad/informes/2023/06/200975.html
+2023-06-17,18:52:35,18:00 - 19:00,Later Hours,3.8,Ml,3-3.9,39,shallow,65 km al SO de Iquique,-20.547,-70.662,https://www.sismologia.cl/sismicidad/informes/2023/06/200971.html
+2023-06-17,18:52:22,18:00 - 19:00,Later Hours,2.8,Ml,<3,27,shallow,120 km al SO de Tongoy,-30.765,-72.598,https://www.sismologia.cl/sismicidad/informes/2023/06/200972.html
+2023-06-17,18:31:38,18:00 - 19:00,Later Hours,4.9,Mw,4-4.9,98,intermediate,24 km al NE de Curicó,-34.832,-71.053,https://www.sismologia.cl/sismicidad/informes/2023/06/200965.html
+2023-06-17,17:42:43,17:00 - 18:00,Later Hours,3.2,Ml,3-3.9,115,intermediate,36 km al SO de Mina Collahuasi,-21.062,-68.898,https://www.sismologia.cl/sismicidad/informes/2023/06/200961.html
+2023-06-17,14:57:35,14:00 - 15:00,Central Hours,2.5,Ml,<3,116,intermediate,67 km al S de Ollagüe,-21.797,-68.449,https://www.sismologia.cl/sismicidad/informes/2023/06/200948.html
+2023-06-17,14:22:59,14:00 - 15:00,Central Hours,3.2,Ml,3-3.9,131,intermediate,55 km al S de Ollagüe,-21.699,-68.399,https://www.sismologia.cl/sismicidad/informes/2023/06/200944.html
+2023-06-17,09:43:08,9:00 - 10:00,Central Hours,3.8,Ml,3-3.9,253,deep,62 km al NE de Socaire,-23.28,-67.38,https://www.sismologia.cl/sismicidad/informes/2023/06/200926.html
+2023-06-17,07:18:17,7:00 - 8:00,Early Hours,2.9,Ml,<3,253,deep,75 km al S de Socaire,-24.262,-67.958,https://www.sismologia.cl/sismicidad/informes/2023/06/200915.html
+2023-06-17,06:50:12,6:00 - 7:00,Early Hours,3.6,Ml,3-3.9,124,intermediate,46 km al SO de Ollagüe,-21.537,-68.551,https://www.sismologia.cl/sismicidad/informes/2023/06/200913.html
+2023-06-17,06:20:09,6:00 - 7:00,Early Hours,2.7,Ml,<3,232,intermediate,66 km al SE de Socaire,-24.112,-67.577,https://www.sismologia.cl/sismicidad/informes/2023/06/200912.html
+2023-06-17,05:35:35,5:00 - 6:00,Early Hours,3.0,Ml,3-3.9,104,intermediate,42 km al SO de Mina Collahuasi,-21.088,-68.95,https://www.sismologia.cl/sismicidad/informes/2023/06/200907.html
+2023-06-17,04:19:25,4:00 - 5:00,Early Hours,3.3,Ml,3-3.9,102,intermediate,40 km al NE de Quillagua,-21.467,-69.206,https://www.sismologia.cl/sismicidad/informes/2023/06/200904.html
+2023-06-17,03:25:23,3:00 - 4:00,Early Hours,3.1,Ml,3-3.9,39,shallow,46 km al N de Chañaral.,-25.934,-70.684,https://www.sismologia.cl/sismicidad/informes/2023/06/200900.html
+2023-06-17,03:22:25,3:00 - 4:00,Early Hours,2.6,Ml,<3,156,intermediate,36 km al SE de Calama,-22.635,-68.623,https://www.sismologia.cl/sismicidad/informes/2023/06/200899.html
+2023-06-17,02:20:25,2:00 - 3:00,Early Hours,3.5,Ml,3-3.9,65,intermediate,11 km al O de Chañaral.,-26.347,-70.735,https://www.sismologia.cl/sismicidad/informes/2023/06/200897.html
+2023-06-17,02:18:48,2:00 - 3:00,Early Hours,4.0,Ml,4-4.9,260,deep,95 km al NE de Socaire,-23.098,-67.128,https://www.sismologia.cl/sismicidad/informes/2023/06/200895.html
+2023-06-17,00:35:42,0:00 - 1:00,Early Hours,3.0,Ml,3-3.9,115,intermediate,34 km al S de Pica,-20.775,-69.215,https://www.sismologia.cl/sismicidad/informes/2023/06/200883.html
+2023-06-17,00:29:43,0:00 - 1:00,Early Hours,2.8,Ml,<3,11,shallow,101 km al O de Tongoy,-30.406,-72.537,https://www.sismologia.cl/sismicidad/informes/2023/06/200881.html
+2023-06-17,22:36:18,22:00 - 23:00,Later Hours,2.9,Ml,<3,29,shallow,84 km al O de Tongoy,-30.432,-72.343,https://www.sismologia.cl/sismicidad/informes/2023/06/200871.html
+2023-06-17,22:30:22,22:00 - 23:00,Later Hours,3.0,Ml,3-3.9,35,shallow,70 km al O de Tongoy,-30.479,-72.176,https://www.sismologia.cl/sismicidad/informes/2023/06/200869.html
+2023-06-17,21:09:16,21:00 - 22:00,Later Hours,3.2,Ml,3-3.9,108,intermediate,81 km al SO de San Pedro de Atacama,-23.443,-68.748,https://www.sismologia.cl/sismicidad/informes/2023/06/200864.html
+2023-06-17,20:34:01,20:00 - 21:00,Later Hours,2.5,Ml,<3,50,intermediate,24 km al SE de Huasco,-28.663,-71.118,https://www.sismologia.cl/sismicidad/informes/2023/06/200857.html
+2023-06-16,19:48:21,19:00 - 20:00,Later Hours,4.1,Ml,4-4.9,43,shallow,60 km al SO de Alto Hospicio,-20.63,-70.534,https://www.sismologia.cl/sismicidad/informes/2023/06/200852.html
+2023-06-16,19:20:06,19:00 - 20:00,Later Hours,2.8,Ml,<3,40,shallow,19 km al NE de Concepción,-36.731,-72.873,https://www.sismologia.cl/sismicidad/informes/2023/06/200851.html
+2023-06-16,19:03:05,19:00 - 20:00,Later Hours,3.1,Ml,3-3.9,242,intermediate,134 km al NE de Socaire,-22.908,-66.814,https://www.sismologia.cl/sismicidad/informes/2023/06/200850.html
+2023-06-16,17:30:38,17:00 - 18:00,Later Hours,3.1,Ml,3-3.9,90,intermediate,37 km al S de Sierra Gorda.,-23.215,-69.193,https://www.sismologia.cl/sismicidad/informes/2023/06/200842.html
+2023-06-16,17:25:06,17:00 - 18:00,Later Hours,2.5,Ml,<3,128,intermediate,28 km al SO de Calama,-22.617,-69.147,https://www.sismologia.cl/sismicidad/informes/2023/06/200841.html
+2023-06-16,16:31:43,16:00 - 17:00,Later Hours,2.5,Ml,<3,103,intermediate,34 km al NE de Calama,-22.252,-68.698,https://www.sismologia.cl/sismicidad/informes/2023/06/200838.html
+2023-06-16,15:19:41,15:00 - 16:00,Central Hours,3.5,Ml,3-3.9,20,shallow,39 km al O de Valparaíso,-33.04,-72.029,https://www.sismologia.cl/sismicidad/informes/2023/06/200827.html
+2023-06-16,14:51:15,14:00 - 15:00,Central Hours,3.2,Ml,3-3.9,249,intermediate,103 km al NE de Socaire,-22.996,-67.12,https://www.sismologia.cl/sismicidad/informes/2023/06/200821.html
+2023-06-16,14:19:33,14:00 - 15:00,Central Hours,2.9,Ml,<3,112,intermediate,19 km al NE de Rancagua,-34.022,-70.623,https://www.sismologia.cl/sismicidad/informes/2023/06/200814.html
+2023-06-16,13:50:49,13:00 - 14:00,Central Hours,3.0,Ml,3-3.9,35,shallow,65 km al O de Tongoy,-30.494,-72.118,https://www.sismologia.cl/sismicidad/informes/2023/06/200809.html
+2023-06-16,13:35:54,13:00 - 14:00,Central Hours,2.8,Ml,<3,34,shallow,58 km al O de Tongoy,-30.474,-72.046,https://www.sismologia.cl/sismicidad/informes/2023/06/200806.html
+2023-06-16,13:03:30,13:00 - 14:00,Central Hours,3.1,Ml,3-3.9,105,intermediate,26 km al E de Calama,-22.384,-68.694,https://www.sismologia.cl/sismicidad/informes/2023/06/200804.html
+2023-06-16,12:46:12,12:00 - 13:00,Central Hours,2.8,Ml,<3,32,shallow,42 km al O de La Serena,-29.882,-71.683,https://www.sismologia.cl/sismicidad/informes/2023/06/200800.html
+2023-06-16,10:08:08,10:00 - 11:00,Central Hours,2.7,Ml,<3,208,intermediate,60 km al SE de Socaire,-24.09,-67.657,https://www.sismologia.cl/sismicidad/informes/2023/06/200795.html
+2023-06-16,09:52:37,9:00 - 10:00,Central Hours,3.0,Ml,3-3.9,119,intermediate,57 km al SO de Ollagüe,-21.643,-68.568,https://www.sismologia.cl/sismicidad/informes/2023/06/200791.html
+2023-06-16,08:58:25,8:00 - 9:00,Central Hours,4.7,Mw,4-4.9,197,intermediate,102 km al SE de Socaire,-24.259,-67.211,https://www.sismologia.cl/sismicidad/informes/2023/06/200786.html
+2023-06-16,08:56:09,8:00 - 9:00,Central Hours,2.8,Ml,<3,143,intermediate,32 km al S de Ollagüe,-21.497,-68.146,https://www.sismologia.cl/sismicidad/informes/2023/06/200784.html
+2023-06-16,08:19:32,8:00 - 9:00,Central Hours,3.0,Ml,3-3.9,161,intermediate,48 km al E de Mina Los Pelambres,-31.801,-70.079,https://www.sismologia.cl/sismicidad/informes/2023/06/200779.html
+2023-06-16,07:39:35,7:00 - 8:00,Early Hours,2.5,Ml,<3,34,shallow,56 km al SO de Tongoy,-30.496,-72.008,https://www.sismologia.cl/sismicidad/informes/2023/06/200776.html
+2023-06-16,07:29:28,7:00 - 8:00,Early Hours,2.9,Ml,<3,36,shallow,66 km al O de Tongoy,-30.475,-72.133,https://www.sismologia.cl/sismicidad/informes/2023/06/200775.html
+2023-06-16,07:19:26,7:00 - 8:00,Early Hours,3.1,Ml,3-3.9,139,intermediate,25 km al SO de Ollagüe,-21.389,-68.415,https://www.sismologia.cl/sismicidad/informes/2023/06/200772.html
+2023-06-16,06:27:18,6:00 - 7:00,Early Hours,3.3,Ml,3-3.9,38,shallow,74 km al O de Tongoy,-30.466,-72.222,https://www.sismologia.cl/sismicidad/informes/2023/06/200769.html
+2023-06-16,05:54:33,5:00 - 6:00,Early Hours,2.7,Ml,<3,31,shallow,36 km al SO de Los Vilos,-32.153,-71.773,https://www.sismologia.cl/sismicidad/informes/2023/06/200766.html
+2023-06-16,05:38:32,5:00 - 6:00,Early Hours,3.6,Ml,3-3.9,34,shallow,67 km al O de Tongoy,-30.466,-72.153,https://www.sismologia.cl/sismicidad/informes/2023/06/200761.html
+2023-06-16,05:07:50,5:00 - 6:00,Early Hours,4.1,Ml,4-4.9,33,shallow,70 km al O de Tongoy,-30.486,-72.17,https://www.sismologia.cl/sismicidad/informes/2023/06/200756.html
+2023-06-16,04:40:56,4:00 - 5:00,Early Hours,3.4,Ml,3-3.9,35,shallow,71 km al O de Tongoy,-30.475,-72.193,https://www.sismologia.cl/sismicidad/informes/2023/06/200754.html
+2023-06-16,03:31:33,3:00 - 4:00,Early Hours,2.7,Ml,<3,85,intermediate,27 km al O de Calama,-22.552,-69.178,https://www.sismologia.cl/sismicidad/informes/2023/06/200749.html
+2023-06-16,03:09:06,3:00 - 4:00,Early Hours,3.1,Ml,3-3.9,34,shallow,37 km al S de Huasco,-28.798,-71.28,https://www.sismologia.cl/sismicidad/informes/2023/06/200747.html
+2023-06-16,01:45:03,1:00 - 2:00,Early Hours,2.6,Ml,<3,131,intermediate,58 km al SO de Ollagüe,-21.697,-68.5,https://www.sismologia.cl/sismicidad/informes/2023/06/200744.html
+2023-06-16,01:30:01,1:00 - 2:00,Early Hours,2.5,Ml,<3,28,shallow,6 km al SO de Huasco,-28.505,-71.266,https://www.sismologia.cl/sismicidad/informes/2023/06/200742.html
+2023-06-16,01:20:44,1:00 - 2:00,Early Hours,3.0,Ml,3-3.9,235,intermediate,60 km al S de Socaire,-24.123,-67.803,https://www.sismologia.cl/sismicidad/informes/2023/06/200741.html
+2023-06-16,01:12:38,1:00 - 2:00,Early Hours,3.4,Ml,3-3.9,125,intermediate,50 km al E de El Salvador,-26.338,-69.132,https://www.sismologia.cl/sismicidad/informes/2023/06/200739.html
+2023-06-16,23:27:26,23:00 - 24:00,Later Hours,2.7,Ml,<3,30,shallow,51 km al N de Valparaíso,-32.603,-71.748,https://www.sismologia.cl/sismicidad/informes/2023/06/200734.html
+2023-06-16,23:01:56,23:00 - 24:00,Later Hours,2.9,Ml,<3,115,intermediate,55 km al SO de Mina Collahuasi,-21.163,-69.05,https://www.sismologia.cl/sismicidad/informes/2023/06/200732.html
+2023-06-16,22:52:23,22:00 - 23:00,Later Hours,3.7,Ml,3-3.9,208,intermediate,92 km al SE de Socaire,-24.302,-67.437,https://www.sismologia.cl/sismicidad/informes/2023/06/200730.html
+2023-06-16,21:32:13,21:00 - 22:00,Later Hours,2.7,Ml,<3,93,intermediate,16 km al SE de Camiña,-19.419,-69.325,https://www.sismologia.cl/sismicidad/informes/2023/06/200727.html
+2023-06-15,19:54:11,19:00 - 20:00,Later Hours,3.1,Ml,3-3.9,232,intermediate,60 km al S de Socaire,-24.109,-67.718,https://www.sismologia.cl/sismicidad/informes/2023/06/200725.html
+2023-06-15,19:26:08,19:00 - 20:00,Later Hours,3.1,Ml,3-3.9,252,deep,78 km al SE de Socaire,-24.142,-67.413,https://www.sismologia.cl/sismicidad/informes/2023/06/200722.html
+2023-06-15,16:09:22,16:00 - 17:00,Later Hours,2.8,Ml,<3,244,intermediate,36 km al E de Socaire,-23.648,-67.542,https://www.sismologia.cl/sismicidad/informes/2023/06/200707.html
+2023-06-15,15:30:35,15:00 - 16:00,Central Hours,2.5,Ml,<3,78,intermediate,1 km al S de Curicó,-34.995,-71.239,https://www.sismologia.cl/sismicidad/informes/2023/06/200702.html
+2023-06-15,15:07:35,15:00 - 16:00,Central Hours,5.4,Mww,5-5.9,46,shallow,20 km al SE de Pichilemu,-34.516,-71.852,https://www.sismologia.cl/sismicidad/informes/2023/06/200697.html
+2023-06-15,15:03:17,15:00 - 16:00,Central Hours,3.7,Ml,3-3.9,153,intermediate,88 km al SE de Socaire,-23.976,-67.14,https://www.sismologia.cl/sismicidad/informes/2023/06/200699.html
+2023-06-15,13:06:15,13:00 - 14:00,Central Hours,3.8,Ml,3-3.9,139,intermediate,27 km al NE de Mina Los Pelambres,-31.675,-70.354,https://www.sismologia.cl/sismicidad/informes/2023/06/200684.html
+2023-06-15,12:42:44,12:00 - 13:00,Central Hours,3.4,Ml,3-3.9,241,intermediate,104 km al NE de Socaire,-23.044,-67.058,https://www.sismologia.cl/sismicidad/informes/2023/06/200683.html
+2023-06-15,12:06:34,12:00 - 13:00,Central Hours,3.0,Ml,3-3.9,118,intermediate,66 km al SO de Ollagüe,-21.694,-68.637,https://www.sismologia.cl/sismicidad/informes/2023/06/200682.html
+2023-06-15,10:09:32,10:00 - 11:00,Central Hours,3.1,Ml,3-3.9,272,deep,53 km al S de Socaire,-24.045,-68.044,https://www.sismologia.cl/sismicidad/informes/2023/06/200678.html
+2023-06-15,07:35:28,7:00 - 8:00,Early Hours,3.0,Ml,3-3.9,115,intermediate,49 km al SO de Mina Collahuasi,-21.174,-68.952,https://www.sismologia.cl/sismicidad/informes/2023/06/200667.html
+2023-06-15,07:30:12,7:00 - 8:00,Early Hours,2.6,Ml,<3,138,intermediate,55 km al SO de Ollagüe,-21.675,-68.474,https://www.sismologia.cl/sismicidad/informes/2023/06/200666.html
+2023-06-15,04:53:14,4:00 - 5:00,Early Hours,3.3,Ml,3-3.9,103,intermediate,24 km al SE de Calama,-22.564,-68.718,https://www.sismologia.cl/sismicidad/informes/2023/06/200656.html
+2023-06-15,04:15:52,4:00 - 5:00,Early Hours,3.6,Ml,3-3.9,152,intermediate,26 km al SO de Visviri,-17.712,-69.691,https://www.sismologia.cl/sismicidad/informes/2023/06/200655.html
+2023-06-15,02:22:17,2:00 - 3:00,Early Hours,3.1,Ml,3-3.9,98,intermediate,18 km al N de Paihuano,-29.868,-70.485,https://www.sismologia.cl/sismicidad/informes/2023/06/200650.html
+2023-06-15,20:51:29,20:00 - 21:00,Later Hours,2.9,Ml,<3,24,shallow,19 km al O de Canela Baja,-31.452,-71.65,https://www.sismologia.cl/sismicidad/informes/2023/06/200630.html
+2023-06-15,20:11:34,20:00 - 21:00,Later Hours,2.9,Ml,<3,111,intermediate,47 km al SO de Mina Collahuasi,-21.148,-68.945,https://www.sismologia.cl/sismicidad/informes/2023/06/200625.html
+2023-06-14,19:18:55,19:00 - 20:00,Later Hours,2.5,Ml,<3,80,intermediate,29 km al SE de Chillán,-36.81,-71.905,https://www.sismologia.cl/sismicidad/informes/2023/06/200623.html
+2023-06-14,19:14:01,19:00 - 20:00,Later Hours,2.5,Ml,<3,86,intermediate,19 km al S de Curicó,-35.154,-71.245,https://www.sismologia.cl/sismicidad/informes/2023/06/200620.html
+2023-06-14,18:51:44,18:00 - 19:00,Later Hours,3.1,Ml,3-3.9,113,intermediate,50 km al SO de Mina Collahuasi,-21.241,-68.845,https://www.sismologia.cl/sismicidad/informes/2023/06/200618.html
+2023-06-14,15:52:12,15:00 - 16:00,Central Hours,2.7,Ml,<3,26,shallow,16 km al O de Huasco,-28.514,-71.38,https://www.sismologia.cl/sismicidad/informes/2023/06/200606.html
+2023-06-14,15:23:07,15:00 - 16:00,Central Hours,2.7,Ml,<3,210,intermediate,101 km al NE de San Pedro de Atacama,-22.162,-67.658,https://www.sismologia.cl/sismicidad/informes/2023/06/200604.html
+2023-06-14,15:18:24,15:00 - 16:00,Central Hours,3.3,Ml,3-3.9,40,shallow,27 km al N de Los Vilos,-31.678,-71.591,https://www.sismologia.cl/sismicidad/informes/2023/06/200602.html
+2023-06-14,15:15:09,15:00 - 16:00,Central Hours,2.9,Ml,<3,29,shallow,62 km al NO de Cobquecura,-35.733,-73.282,https://www.sismologia.cl/sismicidad/informes/2023/06/200600.html
+2023-06-14,14:25:05,14:00 - 15:00,Central Hours,3.4,Ml,3-3.9,119,intermediate,34 km al E de Camiña,-19.247,-69.11,https://www.sismologia.cl/sismicidad/informes/2023/06/200590.html
+2023-06-14,13:41:07,13:00 - 14:00,Central Hours,3.6,Ml,3-3.9,120,intermediate,59 km al S de Mina Collahuasi,-21.333,-68.817,https://www.sismologia.cl/sismicidad/informes/2023/06/200588.html
+2023-06-14,13:32:42,13:00 - 14:00,Central Hours,2.9,Ml,<3,95,intermediate,54 km al SO de Mina Collahuasi,-21.21,-68.978,https://www.sismologia.cl/sismicidad/informes/2023/06/200584.html
+2023-06-14,13:16:00,13:00 - 14:00,Central Hours,2.5,M,<3,104,intermediate,53 km al SO de Ollagüe,-21.657,-68.474,https://www.sismologia.cl/sismicidad/informes/2023/06/200582.html
+2023-06-14,13:05:36,13:00 - 14:00,Central Hours,2.5,Ml,<3,134,intermediate,79 km al SE de Paihuano,-30.602,-70.031,https://www.sismologia.cl/sismicidad/informes/2023/06/200580.html
+2023-06-14,11:29:41,11:00 - 12:00,Central Hours,3.7,Ml,3-3.9,30,shallow,53 km al NO de Cobquecura,-35.812,-73.233,https://www.sismologia.cl/sismicidad/informes/2023/06/200572.html
+2023-06-14,11:02:46,11:00 - 12:00,Central Hours,2.9,Ml,<3,98,intermediate,42 km al O de Ollagüe,-21.329,-68.643,https://www.sismologia.cl/sismicidad/informes/2023/06/200570.html
+2023-06-14,10:52:29,10:00 - 11:00,Central Hours,2.8,Ml,<3,135,intermediate,50 km al SO de Ollagüe,-21.58,-68.552,https://www.sismologia.cl/sismicidad/informes/2023/06/200569.html
+2023-06-14,07:58:39,7:00 - 8:00,Early Hours,3.0,Ml,3-3.9,108,intermediate,29 km al E de Calama,-22.406,-68.66,https://www.sismologia.cl/sismicidad/informes/2023/06/200563.html
+2023-06-14,07:11:45,7:00 - 8:00,Early Hours,3.1,Ml,3-3.9,112,intermediate,57 km al SO de Ollagüe,-21.558,-68.667,https://www.sismologia.cl/sismicidad/informes/2023/06/200560.html
+2023-06-14,06:56:09,6:00 - 7:00,Early Hours,2.8,Ml,<3,39,shallow,57 km al NO de Mejillones,-22.662,-70.731,https://www.sismologia.cl/sismicidad/informes/2023/06/200558.html
+2023-06-14,05:27:10,5:00 - 6:00,Early Hours,2.9,Ml,<3,42,shallow,21 km al N de Mejillones,-22.914,-70.463,https://www.sismologia.cl/sismicidad/informes/2023/06/200548.html
+2023-06-14,03:28:37,3:00 - 4:00,Early Hours,3.9,Ml,3-3.9,35,shallow,57 km al NO de Cobquecura,-35.781,-73.258,https://www.sismologia.cl/sismicidad/informes/2023/06/200543.html
+2023-06-14,03:20:18,3:00 - 4:00,Early Hours,3.0,Ml,3-3.9,42,shallow,62 km al SO de Alto Hospicio,-20.643,-70.538,https://www.sismologia.cl/sismicidad/informes/2023/06/200541.html
+2023-06-14,01:38:30,1:00 - 2:00,Early Hours,3.9,Ml,3-3.9,34,shallow,61 km al NO de Cobquecura,-35.752,-73.278,https://www.sismologia.cl/sismicidad/informes/2023/06/200534.html
+2023-06-14,01:28:44,1:00 - 2:00,Early Hours,3.8,Ml,3-3.9,32,shallow,63 km al NO de Cobquecura,-35.754,-73.314,https://www.sismologia.cl/sismicidad/informes/2023/06/200530.html
+2023-06-14,23:32:34,23:00 - 24:00,Later Hours,3.0,Ml,3-3.9,107,intermediate,16 km al S de Calama,-22.605,-68.982,https://www.sismologia.cl/sismicidad/informes/2023/06/200523.html
+2023-06-14,22:14:45,22:00 - 23:00,Later Hours,2.9,Ml,<3,32,shallow,11 km al O de Huasco,-28.485,-71.335,https://www.sismologia.cl/sismicidad/informes/2023/06/200520.html
+2023-06-14,22:11:58,22:00 - 23:00,Later Hours,3.5,Ml,3-3.9,91,intermediate,22 km al O de Calama,-22.546,-69.126,https://www.sismologia.cl/sismicidad/informes/2023/06/200518.html
+2023-06-14,21:09:56,21:00 - 22:00,Later Hours,3.1,Ml,3-3.9,55,intermediate,50 km al SO de Caldera,-27.472,-71.054,https://www.sismologia.cl/sismicidad/informes/2023/06/200511.html
+2023-06-14,20:10:28,20:00 - 21:00,Later Hours,2.9,Ml,<3,130,intermediate,21 km al N de Colina,-33.015,-70.676,https://www.sismologia.cl/sismicidad/informes/2023/06/200506.html
+2023-06-13,17:24:48,17:00 - 18:00,Later Hours,3.0,Ml,3-3.9,163,intermediate,31 km al SE de Termas del Flaco,-35.174,-70.225,https://www.sismologia.cl/sismicidad/informes/2023/06/200498.html
+2023-06-13,11:00:05,11:00 - 12:00,Central Hours,2.7,Ml,<3,37,shallow,46 km al SO de Taltal,-25.793,-70.659,https://www.sismologia.cl/sismicidad/informes/2023/06/200470.html
+2023-06-13,09:19:16,9:00 - 10:00,Central Hours,3.2,Ml,3-3.9,50,intermediate,8 km al N de Huasco,-28.397,-71.217,https://www.sismologia.cl/sismicidad/informes/2023/06/200463.html
+2023-06-13,06:31:56,6:00 - 7:00,Early Hours,2.6,Ml,<3,103,intermediate,32 km al SO de Mina Collahuasi,-20.976,-68.919,https://www.sismologia.cl/sismicidad/informes/2023/06/200457.html
+2023-06-13,05:47:28,5:00 - 6:00,Early Hours,2.7,Ml,<3,110,intermediate,48 km al SO de Mina Collahuasi,-21.131,-68.982,https://www.sismologia.cl/sismicidad/informes/2023/06/200456.html
+2023-06-13,04:21:16,4:00 - 5:00,Early Hours,3.2,Ml,3-3.9,15,shallow,188 km al NO de Constitución,-34.42,-74.145,https://www.sismologia.cl/sismicidad/informes/2023/06/200447.html
+2023-06-13,03:58:57,3:00 - 4:00,Early Hours,2.8,Ml,<3,108,intermediate,38 km al SO de Mina Collahuasi,-20.97,-68.986,https://www.sismologia.cl/sismicidad/informes/2023/06/200445.html
+2023-06-13,03:35:17,3:00 - 4:00,Early Hours,3.0,Ml,3-3.9,103,intermediate,44 km al E de Sierra Gorda.,-22.92,-68.887,https://www.sismologia.cl/sismicidad/informes/2023/06/200439.html
+2023-06-13,01:47:46,1:00 - 2:00,Early Hours,2.6,Ml,<3,109,intermediate,40 km al SE de Pica,-20.815,-69.172,https://www.sismologia.cl/sismicidad/informes/2023/06/200430.html
+2023-06-13,00:44:37,0:00 - 1:00,Early Hours,2.8,Ml,<3,37,shallow,53 km al NO de Valdivia,-39.539,-73.75,https://www.sismologia.cl/sismicidad/informes/2023/06/200425.html
+2023-06-13,20:29:27,20:00 - 21:00,Later Hours,2.6,Ml,<3,32,shallow,54 km al SO de Tongoy,-30.482,-71.997,https://www.sismologia.cl/sismicidad/informes/2023/06/200414.html
+2023-06-12,18:59:45,18:00 - 19:00,Later Hours,3.1,Ml,3-3.9,40,shallow,44 km al SO de Mejillones,-23.378,-70.753,https://www.sismologia.cl/sismicidad/informes/2023/06/200410.html
+2023-06-12,18:34:40,18:00 - 19:00,Later Hours,3.0,Ml,3-3.9,94,intermediate,38 km al S de Calama,-22.812,-68.876,https://www.sismologia.cl/sismicidad/informes/2023/06/200409.html
+2023-06-12,14:03:53,14:00 - 15:00,Central Hours,2.7,Ml,<3,24,shallow,45 km al SO de Los Vilos,-32.262,-71.745,https://www.sismologia.cl/sismicidad/informes/2023/06/200386.html
+2023-06-12,12:46:00,12:00 - 13:00,Central Hours,2.5,Ml,<3,105,intermediate,74 km al NE de Calama,-21.896,-68.574,https://www.sismologia.cl/sismicidad/informes/2023/06/200380.html
+2023-06-12,11:45:32,11:00 - 12:00,Central Hours,2.8,Ml,<3,108,intermediate,32 km al SO de Calama,-22.734,-69.042,https://www.sismologia.cl/sismicidad/informes/2023/06/200377.html
+2023-06-12,10:15:23,10:00 - 11:00,Central Hours,2.6,Ml,<3,70,intermediate,6 km al SO de Linares,-35.885,-71.638,https://www.sismologia.cl/sismicidad/informes/2023/06/200367.html
+2023-06-12,09:01:34,9:00 - 10:00,Central Hours,3.4,Ml,3-3.9,146,intermediate,23 km al N de Ollagüe,-21.022,-68.303,https://www.sismologia.cl/sismicidad/informes/2023/06/200365.html
+2023-06-12,07:08:16,7:00 - 8:00,Early Hours,2.7,Ml,<3,46,shallow,54 km al NO de Quillagua,-21.316,-69.906,https://www.sismologia.cl/sismicidad/informes/2023/06/200357.html
+2023-06-12,04:51:44,4:00 - 5:00,Early Hours,3.4,Ml,3-3.9,96,intermediate,60 km al N de Pica,-19.976,-69.153,https://www.sismologia.cl/sismicidad/informes/2023/06/200348.html
+2023-06-12,03:51:58,3:00 - 4:00,Early Hours,3.1,Ml,3-3.9,112,intermediate,36 km al NO de Mina Collahuasi,-20.686,-68.966,https://www.sismologia.cl/sismicidad/informes/2023/06/200338.html
+2023-06-12,01:08:08,1:00 - 2:00,Early Hours,3.2,Ml,3-3.9,54,intermediate,61 km al NE de Vallenar,-28.196,-70.3,https://www.sismologia.cl/sismicidad/informes/2023/06/200327.html
+2023-06-12,00:25:09,0:00 - 1:00,Early Hours,3.2,Ml,3-3.9,124,intermediate,55 km al SO de Ollagüe,-21.66,-68.508,https://www.sismologia.cl/sismicidad/informes/2023/06/200317.html
+2023-06-12,21:42:48,21:00 - 22:00,Later Hours,2.8,Ml,<3,39,shallow,41 km al O de La Ligua,-32.556,-71.655,https://www.sismologia.cl/sismicidad/informes/2023/06/200302.html
+2023-06-11,18:43:53,18:00 - 19:00,Later Hours,2.6,Ml,<3,25,shallow,37 km al S de Taltal,-25.735,-70.401,https://www.sismologia.cl/sismicidad/informes/2023/06/200297.html
+2023-06-11,18:16:38,18:00 - 19:00,Later Hours,3.3,Ml,3-3.9,62,intermediate,50 km al S de Taltal,-25.839,-70.328,https://www.sismologia.cl/sismicidad/informes/2023/06/200294.html
+2023-06-11,16:35:24,16:00 - 17:00,Later Hours,4.5,Mw,4-4.9,106,intermediate,51 km al N de Calama,-22.025,-68.812,https://www.sismologia.cl/sismicidad/informes/2023/06/200281.html
+2023-06-11,12:44:32,12:00 - 13:00,Central Hours,2.6,Ml,<3,229,intermediate,66 km al S de Socaire,-24.166,-67.733,https://www.sismologia.cl/sismicidad/informes/2023/06/200262.html
+2023-06-11,12:10:07,12:00 - 13:00,Central Hours,2.6,Ml,<3,85,intermediate,31 km al SE de Calama,-22.725,-68.809,https://www.sismologia.cl/sismicidad/informes/2023/06/200260.html
+2023-06-11,11:29:12,11:00 - 12:00,Central Hours,2.6,Ml,<3,45,shallow,8 km al S de Huasco,-28.531,-71.196,https://www.sismologia.cl/sismicidad/informes/2023/06/200256.html
+2023-06-11,10:28:47,10:00 - 11:00,Central Hours,3.9,Ml,3-3.9,69,intermediate,21 km al O de La Higuera,-29.521,-71.421,https://www.sismologia.cl/sismicidad/informes/2023/06/200249.html
+2023-06-11,09:11:44,9:00 - 10:00,Central Hours,3.0,Ml,3-3.9,15,shallow,26 km al O de Putre,-18.275,-69.792,https://www.sismologia.cl/sismicidad/informes/2023/06/200243.html
+2023-06-11,07:46:37,7:00 - 8:00,Early Hours,2.5,Ml,<3,27,shallow,55 km al O de Lebu,-37.678,-74.274,https://www.sismologia.cl/sismicidad/informes/2023/06/200233.html
+2023-06-11,03:02:07,3:00 - 4:00,Early Hours,3.2,Ml,3-3.9,37,shallow,55 km al SO de Los Vilos,-32.263,-71.921,https://www.sismologia.cl/sismicidad/informes/2023/06/200220.html
+2023-06-11,02:55:34,2:00 - 3:00,Early Hours,3.0,Ml,3-3.9,28,shallow,30 km al NO de Quillagua,-21.427,-69.683,https://www.sismologia.cl/sismicidad/informes/2023/06/200218.html
+2023-06-11,01:46:08,1:00 - 2:00,Early Hours,3.7,Ml,3-3.9,21,shallow,180 km al O de Lebu,-38.035,-75.629,https://www.sismologia.cl/sismicidad/informes/2023/06/200211.html
+2023-06-11,00:57:56,0:00 - 1:00,Early Hours,4.4,Ml,4-4.9,115,intermediate,47 km al SO de Mina Collahuasi,-21.102,-68.995,https://www.sismologia.cl/sismicidad/informes/2023/06/200206.html
+2023-06-11,23:58:00,23:00 - 24:00,Later Hours,2.8,Ml,<3,64,intermediate,13 km al N de Santa Cruz,-34.532,-71.403,https://www.sismologia.cl/sismicidad/informes/2023/06/200200.html
+2023-06-11,23:35:24,23:00 - 24:00,Later Hours,3.0,Ml,3-3.9,118,intermediate,31 km al S de Mina Collahuasi,-21.102,-68.64,https://www.sismologia.cl/sismicidad/informes/2023/06/200199.html
+2023-06-11,22:10:43,22:00 - 23:00,Later Hours,2.6,Ml,<3,105,intermediate,30 km al SO de Mina Collahuasi,-20.971,-68.902,https://www.sismologia.cl/sismicidad/informes/2023/06/200193.html
+2023-06-11,21:15:46,21:00 - 22:00,Later Hours,3.0,Ml,3-3.9,136,intermediate,57 km al NE de Camiña,-18.932,-69.06,https://www.sismologia.cl/sismicidad/informes/2023/06/200192.html
+2023-06-11,20:12:17,20:00 - 21:00,Later Hours,2.6,Ml,<3,109,intermediate,11 km al NE de Ollagüe,-21.133,-68.213,https://www.sismologia.cl/sismicidad/informes/2023/06/200189.html
+2023-06-10,16:35:46,16:00 - 17:00,Later Hours,2.7,Ml,<3,115,intermediate,31 km al NO de Mina Collahuasi,-20.601,-68.826,https://www.sismologia.cl/sismicidad/informes/2023/06/200176.html
+2023-06-10,11:33:08,11:00 - 12:00,Central Hours,2.8,Ml,<3,18,shallow,11 km al N de Quillagua,-21.56,-69.533,https://www.sismologia.cl/sismicidad/informes/2023/06/200144.html
+2023-06-10,11:06:48,11:00 - 12:00,Central Hours,4.5,Mw,4-4.9,6,shallow,10 km al N de Quillagua,-21.573,-69.539,https://www.sismologia.cl/sismicidad/informes/2023/06/200136.html
+2023-06-10,09:40:53,9:00 - 10:00,Central Hours,2.5,Ml,<3,111,intermediate,26 km al NO de Mina Collahuasi,-20.704,-68.868,https://www.sismologia.cl/sismicidad/informes/2023/06/200129.html
+2023-06-10,09:21:06,9:00 - 10:00,Central Hours,4.5,Mw,4-4.9,49,shallow,20 km al NO de Punitaqui,-30.731,-71.437,https://www.sismologia.cl/sismicidad/informes/2023/06/200125.html
+2023-06-10,06:41:04,6:00 - 7:00,Early Hours,3.2,Ml,3-3.9,107,intermediate,49 km al SO de Mina Collahuasi,-21.228,-68.85,https://www.sismologia.cl/sismicidad/informes/2023/06/200117.html
+2023-06-10,05:27:33,5:00 - 6:00,Early Hours,2.5,Ml,<3,91,intermediate,47 km al NE de Pica,-20.12,-69.115,https://www.sismologia.cl/sismicidad/informes/2023/06/200113.html
+2023-06-10,04:53:08,4:00 - 5:00,Early Hours,3.0,Ml,3-3.9,250,deep,68 km al S de Socaire,-24.2,-67.913,https://www.sismologia.cl/sismicidad/informes/2023/06/200111.html
+2023-06-10,03:55:47,3:00 - 4:00,Early Hours,4.1,Ml,4-4.9,236,intermediate,87 km al SE de Socaire,-24.152,-67.299,https://www.sismologia.cl/sismicidad/informes/2023/06/200107.html
+2023-06-10,03:24:31,3:00 - 4:00,Early Hours,4.3,Mw,4-4.9,226,intermediate,82 km al SE de Socaire,-24.126,-67.341,https://www.sismologia.cl/sismicidad/informes/2023/06/200105.html
+2023-06-10,02:50:35,2:00 - 3:00,Early Hours,2.8,Ml,<3,42,shallow,41 km al NO de Quillagua,-21.4,-69.814,https://www.sismologia.cl/sismicidad/informes/2023/06/200102.html
+2023-06-10,01:53:01,1:00 - 2:00,Early Hours,3.0,Ml,3-3.9,113,intermediate,64 km al NE de Calama,-22.056,-68.492,https://www.sismologia.cl/sismicidad/informes/2023/06/200100.html
+2023-06-10,01:12:28,1:00 - 2:00,Early Hours,2.9,Ml,<3,39,shallow,31 km al NO de Los Vilos,-31.762,-71.792,https://www.sismologia.cl/sismicidad/informes/2023/06/200096.html
+2023-06-10,22:25:56,22:00 - 23:00,Later Hours,2.6,Ml,<3,87,intermediate,45 km al S de Camiña,-19.722,-69.417,https://www.sismologia.cl/sismicidad/informes/2023/06/200088.html
+2023-06-10,22:16:10,22:00 - 23:00,Later Hours,3.1,Ml,3-3.9,238,intermediate,46 km al S de Socaire,-24.007,-67.914,https://www.sismologia.cl/sismicidad/informes/2023/06/200087.html
+2023-06-10,21:24:21,21:00 - 22:00,Later Hours,3.7,Ml,3-3.9,213,intermediate,83 km al NE de San Pedro de Atacama,-22.263,-67.822,https://www.sismologia.cl/sismicidad/informes/2023/06/200085.html
+2023-06-10,20:27:53,20:00 - 21:00,Later Hours,3.7,Ml,3-3.9,238,intermediate,67 km al S de Socaire,-24.189,-67.801,https://www.sismologia.cl/sismicidad/informes/2023/06/200082.html
+2023-06-10,20:23:43,20:00 - 21:00,Later Hours,2.7,Ml,<3,110,intermediate,27 km al SO de Mina Collahuasi,-21.041,-68.781,https://www.sismologia.cl/sismicidad/informes/2023/06/200079.html
+2023-06-09,18:06:17,18:00 - 19:00,Later Hours,2.5,Ml,<3,133,intermediate,33 km al E de Mina Los Pelambres,-31.943,-70.266,https://www.sismologia.cl/sismicidad/informes/2023/06/200076.html
+2023-06-09,18:03:22,18:00 - 19:00,Later Hours,2.8,Ml,<3,37,shallow,43 km al S de Huasco,-28.838,-71.321,https://www.sismologia.cl/sismicidad/informes/2023/06/200075.html
+2023-06-09,17:19:30,17:00 - 18:00,Later Hours,4.0,Ml,4-4.9,81,intermediate,29 km al SE de Baquedano,-23.48,-69.605,https://www.sismologia.cl/sismicidad/informes/2023/06/200072.html
+2023-06-09,09:32:42,9:00 - 10:00,Central Hours,2.7,Ml,<3,83,intermediate,32 km al NO de Los Andes.,-32.575,-70.755,https://www.sismologia.cl/sismicidad/informes/2023/06/200030.html
+2023-06-09,09:04:15,9:00 - 10:00,Central Hours,3.5,Ml,3-3.9,211,intermediate,109 km al SE de Socaire,-24.242,-67.084,https://www.sismologia.cl/sismicidad/informes/2023/06/200023.html
+2023-06-09,07:55:22,7:00 - 8:00,Early Hours,2.8,Ml,<3,38,shallow,89 km al NO de Quillagua,-21.198,-70.234,https://www.sismologia.cl/sismicidad/informes/2023/06/200015.html
+2023-06-09,06:04:45,6:00 - 7:00,Early Hours,2.8,Ml,<3,36,shallow,15 km al O de Chañaral.,-26.354,-70.77,https://www.sismologia.cl/sismicidad/informes/2023/06/200006.html
+2023-06-09,05:59:33,5:00 - 6:00,Early Hours,3.0,Ml,3-3.9,36,shallow,14 km al O de Chañaral.,-26.345,-70.762,https://www.sismologia.cl/sismicidad/informes/2023/06/200004.html
+2023-06-09,05:58:07,5:00 - 6:00,Early Hours,3.0,Ml,3-3.9,91,intermediate,13 km al S de Santiago,-33.552,-70.632,https://www.sismologia.cl/sismicidad/informes/2023/06/200002.html
+2023-06-09,04:34:15,4:00 - 5:00,Early Hours,2.8,Ml,<3,133,intermediate,58 km al SO de Ollagüe,-21.668,-68.549,https://www.sismologia.cl/sismicidad/informes/2023/06/199997.html
+2023-06-09,03:10:45,3:00 - 4:00,Early Hours,3.0,Ml,3-3.9,45,shallow,49 km al O de Tongoy,-30.381,-71.983,https://www.sismologia.cl/sismicidad/informes/2023/06/199996.html
+2023-06-09,02:32:45,2:00 - 3:00,Early Hours,3.1,Ml,3-3.9,238,intermediate,72 km al SE de Socaire,-24.025,-67.367,https://www.sismologia.cl/sismicidad/informes/2023/06/199994.html
+2023-06-09,02:04:51,2:00 - 3:00,Early Hours,3.4,Ml,3-3.9,27,shallow,89 km al O de Cobquecura,-35.802,-73.693,https://www.sismologia.cl/sismicidad/informes/2023/06/199993.html
+2023-06-09,00:47:46,0:00 - 1:00,Early Hours,3.0,Ml,3-3.9,110,intermediate,44 km al SE de Pica,-20.855,-69.174,https://www.sismologia.cl/sismicidad/informes/2023/06/199990.html
+2023-06-09,00:43:42,0:00 - 1:00,Early Hours,2.7,Ml,<3,102,intermediate,80 km al SE de Sierra Gorda.,-23.426,-68.783,https://www.sismologia.cl/sismicidad/informes/2023/06/199988.html
+2023-06-09,23:21:45,23:00 - 24:00,Later Hours,4.0,Ml,4-4.9,190,intermediate,101 km al E de Socaire,-23.494,-66.908,https://www.sismologia.cl/sismicidad/informes/2023/06/199983.html
+2023-06-09,23:19:14,23:00 - 24:00,Later Hours,3.5,Ml,3-3.9,55,intermediate,18 km al S de La Serena,-30.056,-71.308,https://www.sismologia.cl/sismicidad/informes/2023/06/199982.html
+2023-06-09,21:13:29,21:00 - 22:00,Later Hours,2.6,Ml,<3,101,intermediate,60 km al O de Ollagüe,-21.427,-68.79,https://www.sismologia.cl/sismicidad/informes/2023/06/199977.html
+2023-06-08,19:44:21,19:00 - 20:00,Later Hours,2.6,Ml,<3,134,intermediate,67 km al NE de Calama,-21.977,-68.556,https://www.sismologia.cl/sismicidad/informes/2023/06/199971.html
+2023-06-08,18:20:45,18:00 - 19:00,Later Hours,3.0,Ml,3-3.9,35,shallow,24 km al SO de Canela Baja,-31.505,-71.676,https://www.sismologia.cl/sismicidad/informes/2023/06/199965.html
+2023-06-08,17:52:56,17:00 - 18:00,Later Hours,2.6,Ml,<3,128,intermediate,71 km al NE de Calama,-21.881,-68.676,https://www.sismologia.cl/sismicidad/informes/2023/06/199963.html
+2023-06-08,16:07:31,16:00 - 17:00,Later Hours,2.8,Ml,<3,146,intermediate,33 km al S de Mina Collahuasi,-21.111,-68.556,https://www.sismologia.cl/sismicidad/informes/2023/06/199956.html
+2023-06-08,15:52:06,15:00 - 16:00,Central Hours,2.9,Ml,<3,270,deep,60 km al E de Socaire,-23.779,-67.334,https://www.sismologia.cl/sismicidad/informes/2023/06/199953.html
+2023-06-08,15:32:47,15:00 - 16:00,Central Hours,3.2,Ml,3-3.9,105,intermediate,25 km al O de Mina Collahuasi,-20.837,-68.897,https://www.sismologia.cl/sismicidad/informes/2023/06/199948.html
+2023-06-08,13:31:45,13:00 - 14:00,Central Hours,2.5,Ml,<3,86,intermediate,8 km al SO de Petorca,-32.286,-71.007,https://www.sismologia.cl/sismicidad/informes/2023/06/199933.html
+2023-06-08,12:08:34,12:00 - 13:00,Central Hours,2.5,Ml,<3,36,shallow,16 km al S de La Higuera,-29.654,-71.168,https://www.sismologia.cl/sismicidad/informes/2023/06/199927.html
+2023-06-08,12:00:12,12:00 - 13:00,Central Hours,2.9,Ml,<3,111,intermediate,33 km al SE de Pica,-20.737,-69.159,https://www.sismologia.cl/sismicidad/informes/2023/06/199924.html
+2023-06-08,08:54:17,8:00 - 9:00,Central Hours,3.0,Ml,3-3.9,263,deep,60 km al S de Socaire,-24.132,-67.85,https://www.sismologia.cl/sismicidad/informes/2023/06/199913.html
+2023-06-08,08:42:56,8:00 - 9:00,Central Hours,2.7,Ml,<3,60,intermediate,50 km al O de Pisagua,-19.766,-70.658,https://www.sismologia.cl/sismicidad/informes/2023/06/199912.html
+2023-06-08,08:42:20,8:00 - 9:00,Central Hours,3.1,Ml,3-3.9,106,intermediate,32 km al SE de Mina La Escondida.,-24.517,-68.902,https://www.sismologia.cl/sismicidad/informes/2023/06/199911.html
+2023-06-08,08:36:26,8:00 - 9:00,Central Hours,2.6,Ml,<3,34,shallow,13 km al SE de Los Vilos,-32.023,-71.457,https://www.sismologia.cl/sismicidad/informes/2023/06/199908.html
+2023-06-08,08:28:23,8:00 - 9:00,Central Hours,2.9,Ml,<3,36,shallow,17 km al E de Los Vilos,-31.943,-71.337,https://www.sismologia.cl/sismicidad/informes/2023/06/199905.html
+2023-06-08,08:03:30,8:00 - 9:00,Central Hours,3.3,Ml,3-3.9,110,intermediate,46 km al SO de Mina Collahuasi,-21.165,-68.915,https://www.sismologia.cl/sismicidad/informes/2023/06/199903.html
+2023-06-08,06:42:02,6:00 - 7:00,Early Hours,2.8,Ml,<3,137,intermediate,50 km al SE de Mina Los Pelambres,-32.099,-70.164,https://www.sismologia.cl/sismicidad/informes/2023/06/199898.html
+2023-06-08,06:20:18,6:00 - 7:00,Early Hours,2.7,Ml,<3,107,intermediate,51 km al SO de Mina Collahuasi,-21.157,-69.002,https://www.sismologia.cl/sismicidad/informes/2023/06/199895.html
+2023-06-08,05:41:45,5:00 - 6:00,Early Hours,3.1,Ml,3-3.9,87,intermediate,10 km al NE de Pica,-20.428,-69.261,https://www.sismologia.cl/sismicidad/informes/2023/06/199890.html
+2023-06-08,05:26:20,5:00 - 6:00,Early Hours,3.2,Ml,3-3.9,34,shallow,26 km al NO de Navidad,-33.795,-72.04,https://www.sismologia.cl/sismicidad/informes/2023/06/199888.html
+2023-06-08,05:01:22,5:00 - 6:00,Early Hours,3.0,Ml,3-3.9,201,intermediate,107 km al E de Socaire,-23.205,-66.928,https://www.sismologia.cl/sismicidad/informes/2023/06/199886.html
+2023-06-08,03:50:41,3:00 - 4:00,Early Hours,3.1,Ml,3-3.9,114,intermediate,61 km al NE de Calama,-22.136,-68.456,https://www.sismologia.cl/sismicidad/informes/2023/06/199883.html
+2023-06-08,03:17:38,3:00 - 4:00,Early Hours,3.0,Ml,3-3.9,248,intermediate,65 km al E de Socaire,-23.822,-67.309,https://www.sismologia.cl/sismicidad/informes/2023/06/199879.html
+2023-06-08,01:40:58,1:00 - 2:00,Early Hours,3.0,Ml,3-3.9,33,shallow,51 km al SO de Alto Hospicio,-20.684,-70.315,https://www.sismologia.cl/sismicidad/informes/2023/06/199873.html
+2023-06-08,00:15:10,0:00 - 1:00,Early Hours,2.6,Ml,<3,44,shallow,2 km al S de Cuya,-19.179,-70.18,https://www.sismologia.cl/sismicidad/informes/2023/06/199869.html
+2023-06-08,22:45:26,22:00 - 23:00,Later Hours,2.7,Ml,<3,43,shallow,16 km al O de Caldera,-27.062,-70.979,https://www.sismologia.cl/sismicidad/informes/2023/06/199864.html
+2023-06-08,20:14:34,20:00 - 21:00,Later Hours,2.9,Ml,<3,25,shallow,10 km al SE de Antofagasta,-23.688,-70.321,https://www.sismologia.cl/sismicidad/informes/2023/06/199850.html
+2023-06-07,15:37:05,15:00 - 16:00,Central Hours,2.9,Ml,<3,33,shallow,89 km al O de Cobquecura,-35.818,-73.705,https://www.sismologia.cl/sismicidad/informes/2023/06/199830.html
+2023-06-07,15:35:34,15:00 - 16:00,Central Hours,3.8,Ml,3-3.9,177,intermediate,47 km al NE de Ollagüe,-20.997,-67.871,https://www.sismologia.cl/sismicidad/informes/2023/06/199828.html
+2023-06-07,14:49:13,14:00 - 15:00,Central Hours,2.6,Ml,<3,29,shallow,94 km al O de Cobquecura,-35.84,-73.769,https://www.sismologia.cl/sismicidad/informes/2023/06/199824.html
+2023-06-07,13:03:18,13:00 - 14:00,Central Hours,3.4,Ml,3-3.9,109,intermediate,37 km al E de Tacna,-18.151,-69.931,https://www.sismologia.cl/sismicidad/informes/2023/06/199811.html
+2023-06-07,10:54:08,10:00 - 11:00,Central Hours,4.0,Ml,4-4.9,35,shallow,88 km al O de Cobquecura,-35.796,-73.678,https://www.sismologia.cl/sismicidad/informes/2023/06/199805.html
+2023-06-07,10:29:53,10:00 - 11:00,Central Hours,3.1,Ml,3-3.9,149,intermediate,43 km al E de Mina Los Pelambres,-31.658,-70.179,https://www.sismologia.cl/sismicidad/informes/2023/06/199802.html
+2023-06-07,09:01:05,9:00 - 10:00,Central Hours,3.2,Ml,3-3.9,83,intermediate,49 km al S de Camiña,-19.748,-69.483,https://www.sismologia.cl/sismicidad/informes/2023/06/199798.html
+2023-06-07,08:55:36,8:00 - 9:00,Central Hours,3.2,Ml,3-3.9,108,intermediate,72 km al SO de Ollagüe,-21.659,-68.763,https://www.sismologia.cl/sismicidad/informes/2023/06/199795.html
+2023-06-07,08:40:57,8:00 - 9:00,Central Hours,2.5,Ml,<3,23,shallow,64 km al O de Valparaíso,-33.112,-72.293,https://www.sismologia.cl/sismicidad/informes/2023/06/199794.html
+2023-06-07,07:29:15,7:00 - 8:00,Early Hours,3.3,Ml,3-3.9,34,shallow,29 km al SO de Los Vilos,-32.089,-71.739,https://www.sismologia.cl/sismicidad/informes/2023/06/199790.html
+2023-06-07,05:37:33,5:00 - 6:00,Early Hours,3.3,Ml,3-3.9,53,intermediate,55 km al NO de Quillagua,-21.306,-69.9,https://www.sismologia.cl/sismicidad/informes/2023/06/199784.html
+2023-06-07,03:59:21,3:00 - 4:00,Early Hours,2.5,Ml,<3,45,shallow,16 km al S de Canela Baja,-31.537,-71.492,https://www.sismologia.cl/sismicidad/informes/2023/06/199781.html
+2023-06-07,03:57:52,3:00 - 4:00,Early Hours,3.1,Ml,3-3.9,111,intermediate,40 km al SO de Mina Collahuasi,-21.106,-68.907,https://www.sismologia.cl/sismicidad/informes/2023/06/199779.html
+2023-06-07,03:37:24,3:00 - 4:00,Early Hours,3.0,Ml,3-3.9,103,intermediate,40 km al S de Pica,-20.839,-69.224,https://www.sismologia.cl/sismicidad/informes/2023/06/199777.html
+2023-06-07,02:45:09,2:00 - 3:00,Early Hours,2.6,Ml,<3,41,shallow,50 km al N de Mejillones,-22.648,-70.481,https://www.sismologia.cl/sismicidad/informes/2023/06/199773.html
+2023-06-07,02:40:07,2:00 - 3:00,Early Hours,2.9,Ml,<3,238,intermediate,66 km al S de Socaire,-24.173,-67.788,https://www.sismologia.cl/sismicidad/informes/2023/06/199772.html
+2023-06-07,00:47:51,0:00 - 1:00,Early Hours,2.7,Ml,<3,39,shallow,107 km al O de Huasco,-28.709,-72.285,https://www.sismologia.cl/sismicidad/informes/2023/06/199768.html
+2023-06-07,21:47:28,21:00 - 22:00,Later Hours,4.3,Ml,4-4.9,35,shallow,49 km al O de La Ligua,-32.511,-71.751,https://www.sismologia.cl/sismicidad/informes/2023/06/199756.html
+2023-06-07,21:17:11,21:00 - 22:00,Later Hours,3.3,Ml,3-3.9,44,shallow,61 km al SO de Alto Hospicio,-20.643,-70.531,https://www.sismologia.cl/sismicidad/informes/2023/06/199751.html
+2023-06-06,19:28:52,19:00 - 20:00,Later Hours,2.8,Ml,<3,20,shallow,91 km al NO de Tongoy,-29.672,-72.157,https://www.sismologia.cl/sismicidad/informes/2023/06/199748.html
+2023-06-06,18:07:35,18:00 - 19:00,Later Hours,2.6,Ml,<3,30,shallow,63 km al O de Lebu,-37.518,-74.357,https://www.sismologia.cl/sismicidad/informes/2023/06/199746.html
+2023-06-06,17:23:21,17:00 - 18:00,Later Hours,3.4,Ml,3-3.9,135,intermediate,39 km al S de Ollagüe,-21.552,-68.379,https://www.sismologia.cl/sismicidad/informes/2023/06/199741.html
+2023-06-06,16:56:35,16:00 - 17:00,Later Hours,3.0,Ml,3-3.9,117,intermediate,50 km al SE de Alto del Carmen,-29.016,-70.059,https://www.sismologia.cl/sismicidad/informes/2023/06/199738.html
+2023-06-06,16:35:20,16:00 - 17:00,Later Hours,3.1,Ml,3-3.9,104,intermediate,23 km al E de Pica,-20.407,-69.125,https://www.sismologia.cl/sismicidad/informes/2023/06/199736.html
+2023-06-06,16:24:38,16:00 - 17:00,Later Hours,4.0,Ml,4-4.9,122,intermediate,48 km al SO de San Pedro de Atacama,-23.261,-68.489,https://www.sismologia.cl/sismicidad/informes/2023/06/199733.html
+2023-06-06,16:16:19,16:00 - 17:00,Later Hours,3.4,Ml,3-3.9,114,intermediate,32 km al E de San Fernando,-34.497,-70.657,https://www.sismologia.cl/sismicidad/informes/2023/06/199728.html
+2023-06-06,14:52:44,14:00 - 15:00,Central Hours,2.5,Ml,<3,54,intermediate,23 km al NO de La Higuera,-29.405,-71.406,https://www.sismologia.cl/sismicidad/informes/2023/06/199723.html
+2023-06-06,14:44:11,14:00 - 15:00,Central Hours,3.1,Ml,3-3.9,159,intermediate,55 km al S de Termas del Flaco,-35.453,-70.402,https://www.sismologia.cl/sismicidad/informes/2023/06/199722.html
+2023-06-06,14:44:03,14:00 - 15:00,Central Hours,3.4,Ml,3-3.9,102,intermediate,35 km al E de Tierra Amarilla,-27.37,-69.93,https://www.sismologia.cl/sismicidad/informes/2023/06/199719.html
+2023-06-06,14:24:00,14:00 - 15:00,Central Hours,2.8,Ml,<3,58,intermediate,2 km al NE de Temuco,-38.731,-72.571,https://www.sismologia.cl/sismicidad/informes/2023/06/199717.html
+2023-06-06,14:06:01,14:00 - 15:00,Central Hours,3.3,Ml,3-3.9,17,shallow,53 km al NO de Lebu,-37.284,-74.094,https://www.sismologia.cl/sismicidad/informes/2023/06/199713.html
+2023-06-06,14:04:17,14:00 - 15:00,Central Hours,2.9,Ml,<3,35,shallow,21 km al O de El Tabo,-33.408,-71.891,https://www.sismologia.cl/sismicidad/informes/2023/06/199712.html
+2023-06-06,14:00:57,14:00 - 15:00,Central Hours,2.9,Ml,<3,32,shallow,46 km al SO de Los Vilos,-32.282,-71.733,https://www.sismologia.cl/sismicidad/informes/2023/06/199710.html
+2023-06-06,13:57:54,13:00 - 14:00,Central Hours,3.0,Ml,3-3.9,184,intermediate,84 km al SE de Socaire,-23.908,-67.145,https://www.sismologia.cl/sismicidad/informes/2023/06/199709.html
+2023-06-06,13:41:53,13:00 - 14:00,Central Hours,4.3,Ml,4-4.9,56,intermediate,59 km al NO de Quillagua,-21.303,-69.96,https://www.sismologia.cl/sismicidad/informes/2023/06/199704.html
+2023-06-06,13:34:03,13:00 - 14:00,Central Hours,3.1,Ml,3-3.9,31,shallow,135 km al NO de Arauco,-36.677,-74.661,https://www.sismologia.cl/sismicidad/informes/2023/06/199703.html
+2023-06-06,12:30:23,12:00 - 13:00,Central Hours,2.9,Ml,<3,127,intermediate,35 km al SO de Ollagüe,-21.507,-68.397,https://www.sismologia.cl/sismicidad/informes/2023/06/199695.html
+2023-06-06,12:23:45,12:00 - 13:00,Central Hours,4.1,Ml,4-4.9,239,intermediate,88 km al E de Socaire,-23.282,-67.093,https://www.sismologia.cl/sismicidad/informes/2023/06/199694.html
+2023-06-06,10:59:35,10:00 - 11:00,Central Hours,2.5,Ml,<3,115,intermediate,35 km al S de Mina Collahuasi,-21.142,-68.694,https://www.sismologia.cl/sismicidad/informes/2023/06/199689.html
+2023-06-06,10:15:28,10:00 - 11:00,Central Hours,3.3,Ml,3-3.9,29,shallow,61 km al NO de Concepción,-36.397,-73.475,https://www.sismologia.cl/sismicidad/informes/2023/06/199687.html
+2023-06-06,10:09:23,10:00 - 11:00,Central Hours,2.9,Ml,<3,121,intermediate,73 km al SO de Ollagüe,-21.736,-68.698,https://www.sismologia.cl/sismicidad/informes/2023/06/199685.html
+2023-06-06,09:02:02,9:00 - 10:00,Central Hours,2.9,Ml,<3,118,intermediate,47 km al NE de Calama,-22.241,-68.548,https://www.sismologia.cl/sismicidad/informes/2023/06/199680.html
+2023-06-06,06:26:26,6:00 - 7:00,Early Hours,3.2,Ml,3-3.9,100,intermediate,47 km al SO de Mina Collahuasi,-21.15,-68.945,https://www.sismologia.cl/sismicidad/informes/2023/06/199675.html
+2023-06-06,05:48:38,5:00 - 6:00,Early Hours,2.6,Ml,<3,92,intermediate,6 km al SO de Camiña,-19.364,-69.456,https://www.sismologia.cl/sismicidad/informes/2023/06/199672.html
+2023-06-06,05:29:46,5:00 - 6:00,Early Hours,3.0,Ml,3-3.9,118,intermediate,69 km al NE de Calama,-21.992,-68.506,https://www.sismologia.cl/sismicidad/informes/2023/06/199670.html
+2023-06-06,05:12:18,5:00 - 6:00,Early Hours,3.5,Ml,3-3.9,61,intermediate,47 km al SO de Camiña,-19.596,-69.758,https://www.sismologia.cl/sismicidad/informes/2023/06/199666.html
+2023-06-06,04:59:56,4:00 - 5:00,Early Hours,2.9,Ml,<3,74,intermediate,20 km al E de Sierra Gorda.,-22.91,-69.124,https://www.sismologia.cl/sismicidad/informes/2023/06/199664.html
+2023-06-06,02:13:23,2:00 - 3:00,Early Hours,2.9,Ml,<3,86,intermediate,20 km al SE de Sierra Gorda.,-22.981,-69.137,https://www.sismologia.cl/sismicidad/informes/2023/06/199657.html
+2023-06-06,01:50:29,1:00 - 2:00,Early Hours,2.8,Ml,<3,120,intermediate,29 km al NO de Ollagüe,-21.083,-68.485,https://www.sismologia.cl/sismicidad/informes/2023/06/199652.html
+2023-06-05,17:33:58,17:00 - 18:00,Later Hours,4.3,Mw,4-4.9,79,intermediate,51 km al NO de Quillagua,-21.42,-69.952,https://www.sismologia.cl/sismicidad/informes/2023/06/199618.html
+2023-06-05,17:06:09,17:00 - 18:00,Later Hours,3.6,Ml,3-3.9,91,intermediate,33 km al E de Tierra Amarilla,-27.584,-69.949,https://www.sismologia.cl/sismicidad/informes/2023/06/199613.html
+2023-06-05,16:47:50,16:00 - 17:00,Later Hours,2.7,Ml,<3,51,intermediate,27 km al N de Pichilemu,-34.147,-72.058,https://www.sismologia.cl/sismicidad/informes/2023/06/199609.html
+2023-06-05,15:24:54,15:00 - 16:00,Central Hours,2.9,Ml,<3,160,intermediate,13 km al S de Visviri,-17.714,-69.507,https://www.sismologia.cl/sismicidad/informes/2023/06/199602.html
+2023-06-05,14:23:43,14:00 - 15:00,Central Hours,3.2,Ml,3-3.9,106,intermediate,32 km al E de Pica,-20.597,-69.044,https://www.sismologia.cl/sismicidad/informes/2023/06/199595.html
+2023-06-05,12:54:51,12:00 - 13:00,Central Hours,3.8,Ml,3-3.9,83,intermediate,22 km al S de Tacna,-18.216,-70.234,https://www.sismologia.cl/sismicidad/informes/2023/06/199590.html
+2023-06-05,10:54:43,10:00 - 11:00,Central Hours,3.2,Ml,3-3.9,32,shallow,33 km al SO de Huasco,-28.732,-71.362,https://www.sismologia.cl/sismicidad/informes/2023/06/199584.html
+2023-06-05,10:23:19,10:00 - 11:00,Central Hours,3.2,Ml,3-3.9,109,intermediate,61 km al SO de Mina Collahuasi,-21.264,-69.02,https://www.sismologia.cl/sismicidad/informes/2023/06/199578.html
+2023-06-05,10:01:37,10:00 - 11:00,Central Hours,3.0,Ml,3-3.9,101,intermediate,40 km al O de Mina Collahuasi,-20.719,-69.023,https://www.sismologia.cl/sismicidad/informes/2023/06/199576.html
+2023-06-05,08:25:31,8:00 - 9:00,Central Hours,2.9,Ml,<3,134,intermediate,63 km al SE de Mina La Escondida.,-24.636,-68.581,https://www.sismologia.cl/sismicidad/informes/2023/06/199571.html
+2023-06-05,08:18:44,8:00 - 9:00,Central Hours,2.8,Ml,<3,98,intermediate,48 km al SE de Sierra Gorda.,-23.128,-68.916,https://www.sismologia.cl/sismicidad/informes/2023/06/199569.html
+2023-06-05,05:45:19,5:00 - 6:00,Early Hours,2.8,Ml,<3,29,shallow,19 km al SE de La Higuera,-29.666,-71.126,https://www.sismologia.cl/sismicidad/informes/2023/06/199561.html
+2023-06-05,02:55:11,2:00 - 3:00,Early Hours,2.9,Ml,<3,44,shallow,33 km al NO de Taltal,-25.238,-70.758,https://www.sismologia.cl/sismicidad/informes/2023/06/199555.html
+2023-06-05,02:53:33,2:00 - 3:00,Early Hours,3.1,Ml,3-3.9,24,shallow,8 km al NE de Ollagüe,-21.18,-68.199,https://www.sismologia.cl/sismicidad/informes/2023/06/199553.html
+2023-06-05,02:41:22,2:00 - 3:00,Early Hours,3.5,Ml,3-3.9,20,shallow,129 km al O de Lebu,-37.973,-75.045,https://www.sismologia.cl/sismicidad/informes/2023/06/199552.html
+2023-06-05,01:24:25,1:00 - 2:00,Early Hours,3.9,Ml,3-3.9,208,intermediate,106 km al SE de Socaire,-24.217,-67.11,https://www.sismologia.cl/sismicidad/informes/2023/06/199548.html
+2023-06-05,00:54:12,0:00 - 1:00,Early Hours,2.8,Ml,<3,52,intermediate,14 km al O de Ovalle,-30.647,-71.339,https://www.sismologia.cl/sismicidad/informes/2023/06/199545.html
+2023-06-05,00:45:14,0:00 - 1:00,Early Hours,3.6,Ml,3-3.9,220,intermediate,120 km al SE de Socaire,-24.122,-66.864,https://www.sismologia.cl/sismicidad/informes/2023/06/199544.html
+2023-06-05,00:04:49,0:00 - 1:00,Early Hours,3.2,Ml,3-3.9,89,intermediate,42 km al S de Alto del Carmen,-29.127,-70.597,https://www.sismologia.cl/sismicidad/informes/2023/06/199539.html
+2023-06-05,22:51:34,22:00 - 23:00,Later Hours,2.6,Ml,<3,8,shallow,30 km al O de Tocopilla,-22.132,-70.493,https://www.sismologia.cl/sismicidad/informes/2023/06/199536.html
+2023-06-05,21:23:55,21:00 - 22:00,Later Hours,2.5,Ml,<3,38,shallow,70 km al O de Cobquecura,-36.094,-73.571,https://www.sismologia.cl/sismicidad/informes/2023/06/199531.html
+2023-06-05,21:11:42,21:00 - 22:00,Later Hours,2.9,Ml,<3,83,intermediate,19 km al S de Salamanca,-31.945,-71.033,https://www.sismologia.cl/sismicidad/informes/2023/06/199528.html
+2023-06-05,21:10:10,21:00 - 22:00,Later Hours,2.7,Ml,<3,46,shallow,45 km al O de Punitaqui,-30.884,-71.723,https://www.sismologia.cl/sismicidad/informes/2023/06/199527.html
+2023-06-05,20:31:40,20:00 - 21:00,Later Hours,3.0,Ml,3-3.9,97,intermediate,1 km al O de Calama,-22.471,-68.944,https://www.sismologia.cl/sismicidad/informes/2023/06/199523.html
+2023-06-05,20:01:19,20:00 - 21:00,Later Hours,3.4,Ml,3-3.9,150,intermediate,55 km al SO de Ollagüe,-21.538,-68.665,https://www.sismologia.cl/sismicidad/informes/2023/06/199517.html
+2023-06-04,19:24:59,19:00 - 20:00,Later Hours,2.9,Ml,<3,99,intermediate,50 km al SO de San Pedro de Atacama,-23.114,-68.642,https://www.sismologia.cl/sismicidad/informes/2023/06/199513.html
+2023-06-04,19:21:49,19:00 - 20:00,Later Hours,2.7,Ml,<3,110,intermediate,56 km al NE de El Salvador,-25.824,-69.312,https://www.sismologia.cl/sismicidad/informes/2023/06/199512.html
+2023-06-04,17:46:34,17:00 - 18:00,Later Hours,3.8,Ml,3-3.9,111,intermediate,29 km al O de Mina Collahuasi,-20.722,-68.917,https://www.sismologia.cl/sismicidad/informes/2023/06/199507.html
+2023-06-04,17:25:36,17:00 - 18:00,Later Hours,3.1,Ml,3-3.9,106,intermediate,28 km al E de Calama,-22.435,-68.659,https://www.sismologia.cl/sismicidad/informes/2023/06/199506.html
+2023-06-04,14:09:03,14:00 - 15:00,Central Hours,3.9,Ml,3-3.9,112,intermediate,7 km al E de Pica,-20.466,-69.264,https://www.sismologia.cl/sismicidad/informes/2023/06/199492.html
+2023-06-04,13:23:10,13:00 - 14:00,Central Hours,2.8,Ml,<3,40,shallow,31 km al SO de Los Vilos,-32.069,-71.787,https://www.sismologia.cl/sismicidad/informes/2023/06/199489.html
+2023-06-04,13:07:41,13:00 - 14:00,Central Hours,3.1,Ml,3-3.9,20,shallow,33 km al NO de Pisagua,-19.369,-70.421,https://www.sismologia.cl/sismicidad/informes/2023/06/199486.html
+2023-06-04,12:02:29,12:00 - 13:00,Central Hours,3.9,Ml,3-3.9,63,intermediate,9 km al NO de Punitaqui,-30.761,-71.306,https://www.sismologia.cl/sismicidad/informes/2023/06/199482.html
+2023-06-04,11:26:38,11:00 - 12:00,Central Hours,3.1,Ml,3-3.9,51,intermediate,52 km al O de La Higuera,-29.507,-71.737,https://www.sismologia.cl/sismicidad/informes/2023/06/199478.html
+2023-06-04,09:30:07,9:00 - 10:00,Central Hours,3.0,Ml,3-3.9,36,shallow,16 km al SO de Baquedano,-23.434,-69.956,https://www.sismologia.cl/sismicidad/informes/2023/06/199473.html
+2023-06-04,08:05:01,8:00 - 9:00,Central Hours,2.8,Ml,<3,63,intermediate,24 km al O de La Ligua,-32.453,-71.485,https://www.sismologia.cl/sismicidad/informes/2023/06/199466.html
+2023-06-04,06:05:27,6:00 - 7:00,Early Hours,3.0,Ml,3-3.9,88,intermediate,16 km al O de Camiña,-19.339,-69.576,https://www.sismologia.cl/sismicidad/informes/2023/06/199459.html
+2023-06-04,04:45:03,4:00 - 5:00,Early Hours,4.0,Ml,4-4.9,22,shallow,18 km al NE de Mejillones,-22.971,-70.34,https://www.sismologia.cl/sismicidad/informes/2023/06/199452.html
+2023-06-04,03:30:43,3:00 - 4:00,Early Hours,4.3,Mw,4-4.9,76,intermediate,17 km al N de Vallenar,-28.419,-70.778,https://www.sismologia.cl/sismicidad/informes/2023/06/199450.html
+2023-06-04,02:13:47,2:00 - 3:00,Early Hours,2.9,Ml,<3,73,intermediate,28 km al SE de Cuya,-19.261,-69.939,https://www.sismologia.cl/sismicidad/informes/2023/06/199446.html
+2023-06-04,02:05:28,2:00 - 3:00,Early Hours,4.6,Mw,4-4.9,135,intermediate,12 km al O de Socaire,-23.571,-68.007,https://www.sismologia.cl/sismicidad/informes/2023/06/199444.html
+2023-06-04,01:46:12,1:00 - 2:00,Early Hours,2.7,Ml,<3,85,intermediate,8 km al NE de Sierra Gorda.,-22.835,-69.273,https://www.sismologia.cl/sismicidad/informes/2023/06/199442.html
+2023-06-04,01:00:37,1:00 - 2:00,Early Hours,3.5,Ml,3-3.9,82,intermediate,38 km al SE de Baquedano,-23.601,-69.614,https://www.sismologia.cl/sismicidad/informes/2023/06/199439.html
+2023-06-04,21:41:25,21:00 - 22:00,Later Hours,2.5,Ml,<3,116,intermediate,44 km al SO de Mina Collahuasi,-21.158,-68.886,https://www.sismologia.cl/sismicidad/informes/2023/06/199427.html
+2023-06-04,20:51:54,20:00 - 21:00,Later Hours,2.7,Ml,<3,105,intermediate,26 km al SE de Pica,-20.623,-69.124,https://www.sismologia.cl/sismicidad/informes/2023/06/199423.html
+2023-06-04,20:12:45,20:00 - 21:00,Later Hours,2.9,Ml,<3,121,intermediate,37 km al O de Socaire,-23.53,-68.247,https://www.sismologia.cl/sismicidad/informes/2023/06/199417.html
+2023-06-04,20:08:21,20:00 - 21:00,Later Hours,2.8,Ml,<3,62,intermediate,8 km al S de La Serena,-29.971,-71.23,https://www.sismologia.cl/sismicidad/informes/2023/06/199415.html
+2023-06-04,20:04:17,20:00 - 21:00,Later Hours,2.7,Ml,<3,21,shallow,37 km al SO de Canela Baja,-31.565,-71.792,https://www.sismologia.cl/sismicidad/informes/2023/06/199414.html
+2023-06-03,19:41:56,19:00 - 20:00,Later Hours,2.7,Ml,<3,30,shallow,117 km al O de Iquique,-20.144,-71.273,https://www.sismologia.cl/sismicidad/informes/2023/06/199412.html
+2023-06-03,19:20:51,19:00 - 20:00,Later Hours,2.5,Ml,<3,63,intermediate,31 km al N de Vallenar,-28.299,-70.804,https://www.sismologia.cl/sismicidad/informes/2023/06/199411.html
+2023-06-03,18:01:33,18:00 - 19:00,Later Hours,2.9,Ml,<3,19,shallow,106 km al O de Arica,-18.642,-71.313,https://www.sismologia.cl/sismicidad/informes/2023/06/199409.html
+2023-06-03,16:26:01,16:00 - 17:00,Later Hours,3.5,Ml,3-3.9,130,intermediate,70 km al SO de Ollagüe,-21.799,-68.527,https://www.sismologia.cl/sismicidad/informes/2023/06/199404.html
+2023-06-03,15:59:05,15:00 - 16:00,Central Hours,3.0,Ml,3-3.9,126,intermediate,63 km al SO de Ollagüe,-21.748,-68.484,https://www.sismologia.cl/sismicidad/informes/2023/06/199401.html
+2023-06-03,13:05:33,13:00 - 14:00,Central Hours,3.1,Ml,3-3.9,48,shallow,24 km al N de La Higuera,-29.299,-71.227,https://www.sismologia.cl/sismicidad/informes/2023/06/199381.html
+2023-06-03,10:54:23,10:00 - 11:00,Central Hours,3.4,Ml,3-3.9,105,intermediate,42 km al SO de Mina Collahuasi,-21.09,-68.944,https://www.sismologia.cl/sismicidad/informes/2023/06/199373.html
+2023-06-03,10:12:58,10:00 - 11:00,Central Hours,4.4,Mw,4-4.9,39,shallow,88 km al S de Ilo,-18.439,-71.361,https://www.sismologia.cl/sismicidad/informes/2023/06/199370.html
+2023-06-03,09:41:40,9:00 - 10:00,Central Hours,2.7,Ml,<3,105,intermediate,45 km al SO de Mina Collahuasi,-21.05,-69.015,https://www.sismologia.cl/sismicidad/informes/2023/06/199366.html
+2023-06-03,08:51:19,8:00 - 9:00,Central Hours,2.6,Ml,<3,60,intermediate,17 km al SO de Punitaqui,-30.903,-71.415,https://www.sismologia.cl/sismicidad/informes/2023/06/199363.html
+2023-06-03,06:08:35,6:00 - 7:00,Early Hours,5.0,Mw,5-5.9,109,intermediate,27 km al NO de Mina Collahuasi,-20.72,-68.889,https://www.sismologia.cl/sismicidad/informes/2023/06/199355.html
+2023-06-03,22:04:49,22:00 - 23:00,Later Hours,2.8,Ml,<3,79,intermediate,17 km al SO de Combarbalá,-31.31,-71.098,https://www.sismologia.cl/sismicidad/informes/2023/06/199320.html
+2023-06-03,21:20:31,21:00 - 22:00,Later Hours,2.8,Ml,<3,83,intermediate,26 km al SO de El Salvador,-26.427,-69.784,https://www.sismologia.cl/sismicidad/informes/2023/06/199316.html
+2023-06-02,19:25:36,19:00 - 20:00,Later Hours,2.8,Ml,<3,112,intermediate,50 km al S de Mina Collahuasi,-21.27,-68.757,https://www.sismologia.cl/sismicidad/informes/2023/06/199295.html
+2023-06-02,18:44:35,18:00 - 19:00,Later Hours,3.3,Ml,3-3.9,126,intermediate,29 km al NE de Calama,-22.244,-68.781,https://www.sismologia.cl/sismicidad/informes/2023/06/199291.html
+2023-06-02,18:25:31,18:00 - 19:00,Later Hours,3.7,Ml,3-3.9,184,intermediate,106 km al SE de Socaire,-24.359,-67.279,https://www.sismologia.cl/sismicidad/informes/2023/06/199290.html
+2023-06-02,17:17:40,17:00 - 18:00,Later Hours,3.1,Ml,3-3.9,74,intermediate,52 km al N de Chañaral.,-25.91,-70.446,https://www.sismologia.cl/sismicidad/informes/2023/06/199282.html
+2023-06-02,16:16:59,16:00 - 17:00,Later Hours,2.8,Ml,<3,96,intermediate,8 km al NE de Calama,-22.411,-68.882,https://www.sismologia.cl/sismicidad/informes/2023/06/199279.html
+2023-06-02,15:41:51,15:00 - 16:00,Central Hours,3.8,Ml,3-3.9,131,intermediate,21 km al NE de Mina Los Pelambres,-31.695,-70.425,https://www.sismologia.cl/sismicidad/informes/2023/06/199277.html
+2023-06-02,13:33:26,13:00 - 14:00,Central Hours,2.8,Ml,<3,120,intermediate,43 km al SE de Mina Los Pelambres,-32.067,-70.234,https://www.sismologia.cl/sismicidad/informes/2023/06/199257.html
+2023-06-02,13:31:26,13:00 - 14:00,Central Hours,2.7,Ml,<3,51,intermediate,14 km al NO de Vallenar,-28.456,-70.819,https://www.sismologia.cl/sismicidad/informes/2023/06/199254.html
+2023-06-02,12:02:14,12:00 - 13:00,Central Hours,2.9,Ml,<3,30,shallow,11 km al O de Tongoy,-30.278,-71.602,https://www.sismologia.cl/sismicidad/informes/2023/06/199242.html
+2023-06-02,10:41:57,10:00 - 11:00,Central Hours,3.0,Ml,3-3.9,213,intermediate,97 km al SE de Ollagüe,-21.982,-67.785,https://www.sismologia.cl/sismicidad/informes/2023/06/199234.html
+2023-06-02,06:54:06,6:00 - 7:00,Early Hours,2.8,Ml,<3,111,intermediate,45 km al SO de Mina Collahuasi,-21.11,-68.971,https://www.sismologia.cl/sismicidad/informes/2023/06/199227.html
+2023-06-02,03:34:43,3:00 - 4:00,Early Hours,2.5,Ml,<3,55,intermediate,32 km al O de Punitaqui,-30.887,-71.585,https://www.sismologia.cl/sismicidad/informes/2023/06/199216.html
+2023-06-02,03:04:12,3:00 - 4:00,Early Hours,2.7,Ml,<3,139,intermediate,61 km al SO de Ollagüe,-21.701,-68.555,https://www.sismologia.cl/sismicidad/informes/2023/06/199213.html
+2023-06-02,01:19:01,1:00 - 2:00,Early Hours,2.5,Ml,<3,22,shallow,47 km al NO de Canela Baja,-31.098,-71.799,https://www.sismologia.cl/sismicidad/informes/2023/06/199206.html
+2023-06-02,01:08:49,1:00 - 2:00,Early Hours,2.5,Ml,<3,45,shallow,63 km al SO de Copiapó,-27.667,-70.877,https://www.sismologia.cl/sismicidad/informes/2023/06/199204.html
+2023-06-02,00:33:32,0:00 - 1:00,Early Hours,3.4,Ml,3-3.9,25,shallow,73 km al S de Antofagasta,-24.295,-70.474,https://www.sismologia.cl/sismicidad/informes/2023/06/199201.html
+2023-06-02,21:22:21,21:00 - 22:00,Later Hours,2.7,Ml,<3,113,intermediate,34 km al O de Ollagüe,-21.211,-68.586,https://www.sismologia.cl/sismicidad/informes/2023/06/199192.html
+2023-06-02,21:18:41,21:00 - 22:00,Later Hours,3.0,Ml,3-3.9,256,deep,64 km al SE de Socaire,-24.056,-67.523,https://www.sismologia.cl/sismicidad/informes/2023/06/199191.html
+2023-06-02,20:59:01,20:00 - 21:00,Later Hours,2.7,Ml,<3,116,intermediate,70 km al S de Ollagüe,-21.811,-68.494,https://www.sismologia.cl/sismicidad/informes/2023/06/199190.html
