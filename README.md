@@ -48,5 +48,5 @@ This update section highlights the expansion of the dataset and the enhanced Tab
 ---
 
 ## Repository Contents
-- **Chile_Recent_Earthquakes.ipynb:** Jupyter Notebook containing the project code and analysis.
+- **Chile_Earthquakes_2010_2023.ipynb:** Jupyter Notebook containing the project code and analysis.
 - **Datasets/:** Folder containing the extracted and cleaned earthquake datasets.
